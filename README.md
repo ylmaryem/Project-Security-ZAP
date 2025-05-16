@@ -1,7 +1,7 @@
 # 🛡️ Mini-Projet : Sécurisation d’une Application Web
 
 ## 📋 Présentation  
-Application To-Do List en Spring Boot avec gestion des utilisateurs et tâches.
+Application To-Do List en Spring Boot et Thymeleaf avec gestion des utilisateurs et tâches.
 
 ## 🚀 Déploiement  
 Conteneur Docker déployé avec HTTPS sur Render.
